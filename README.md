@@ -11,10 +11,7 @@
 
     ## For demo you can view or download PDF 
 
-https://raw.githubusercontent.com/mohammadsadique/AllAboutPDF/blob/main/header-footer-PDF.pdf                 (https://github.com/mohammadsadique/AllAboutPDF/blob/main/header-footer-PDF.pdf
-https://raw.githubusercontent.com/mohammadsadique/AllAboutPDF/blob/main/header-footer-PDF.pdf
-
-[Heading link](https://github.com/mohammadsadique/AllAboutPDF/blob/main/header-footer-PDF.pdf)
+[Header-Footer PDF page link](https://github.com/mohammadsadique/AllAboutPDF/blob/main/header-footer-PDF.pdf)
 
 
 
