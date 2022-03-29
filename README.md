@@ -66,3 +66,9 @@
     </body>
 </html>
    
+   
+  ## Counting of every pages and show them in bottom of every pages.
+  
+        footer .pagenum:before {
+            content: counter(page);
+        }
