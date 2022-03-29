@@ -9,10 +9,10 @@
 
 ## Header-Footer Repeat in every pages of PDF
 
-    ### For demo you can view or download PDF 
+    ## For demo you can view or download PDF 
     
-    [![PDF Page Link](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://github.com/mohammadsadique/AllAboutPDF/blob/main/header-footer-PDF.pdf)
-
+    [![PDF Page Link](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]                   (https://github.com/mohammadsadique/AllAboutPDF/blob/main/header-footer-PDF.pdf
+    https://raw.githubusercontent.com/mohammadsadique/AllAboutPDF/blob/main/header-footer-PDF.pdf
     
     [Heading link](https://github.com/mohammadsadique/AllAboutPDF/blob/main/header-footer-PDF.pdf)
     
