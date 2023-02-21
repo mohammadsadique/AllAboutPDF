@@ -75,9 +75,9 @@
 
 
  ## Import Feature Of PDF
-    /** Save PDF file into a specific folder */
+    ** Save PDF file into a specific folder
     $pdf = PDF::loadView('emailTemplate.rate_confirmation', [ 'data' => $data ])->save(public_path('test/'.$data["file_name"]));
-    /** Download PDF file */
+    ** Download PDF file
     return $pdf->download('filename.pdf');
-    /** View PDF file */
-     $pdf->stream($data["file_name"]);
+    ** View PDF file
+    return $pdf->stream($data["file_name"]);
